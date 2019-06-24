@@ -9,3 +9,6 @@ of the maximum, such as "13/10". Popular posts are re-posted on Instagram and Fa
 account's language has spawned an Internet language about "doggos" and "puppers"
 In October 2017, the Twitter account had nearly 3.75 million followers. As of July 2018, 7.08 million
 followers.
+
+<iframe src="https://github.com/dsb009/WeRateDogs/blob/master/Submission_Weratedogs/Wrangle%20Report.pdf">
+</iframe>
